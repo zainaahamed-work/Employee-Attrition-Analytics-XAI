@@ -1,0 +1,11 @@
+Rank,Rule,Support_Pct,Confidence_Pct,Lift
+1,Low income + New (2 yrs or less),5.0,36.6,2.27
+2,Works overtime,8.6,30.5,1.89
+3,New (2 yrs or less),6.9,29.8,1.85
+4,Works overtime + Medium work-life balance,7.1,29.3,1.82
+5,Young (under 30),6.2,27.9,1.73
+6,New + Medium work-life balance,5.4,27.6,1.71
+7,Young + Medium work-life balance,5.0,26.7,1.66
+8,Low income,8.7,26.1,1.62
+9,Single,8.2,25.5,1.58
+10,Single + Medium work-life balance,6.5,23.9,1.48
