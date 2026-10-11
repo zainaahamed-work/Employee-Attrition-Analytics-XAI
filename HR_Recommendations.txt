@@ -1,0 +1,18 @@
+HR ATTRITION RECOMMENDATIONS
+==============================
+
+1. Key factors linked to attrition (from SHAP)
+   1. OverTime (importance 0.050): Review overtime workload and staffing levels. Overtime is the strongest attrition driver in this analysis.
+   2. StockOptionLevel (importance 0.028): Extend stock option or long-term incentive schemes to more employees, as low stock option levels are linked with leaving.
+   3. MonthlyIncome (importance 0.024): Check pay against market rates, especially for lower-paid and early-career roles.
+   4. Age (importance 0.020): Offer career-growth and mentoring programmes aimed at younger employees, who leave more often.
+   5. TotalWorkingYears (importance 0.017): Create clearer progression paths for employees with limited total experience.
+
+2. Combinations to watch (from Apriori rules)
+   - Low income + New (2 yrs or less): 36.6% of these employees left (lift 2.27).
+   - Works overtime: 30.5% of these employees left (lift 1.89).
+   - New (2 yrs or less): 29.8% of these employees left (lift 1.85).
+
+3. Note
+   These findings show patterns in past data, not guaranteed causes. Use them to guide conversations and further review.
+   Report generated from the SHAP and Apriori outputs using a rule-based template.
